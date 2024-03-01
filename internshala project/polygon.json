@@ -1,0 +1,16 @@
+{
+   "Project": [
+      {
+         "Name": "QuickSwap",
+         "Description": "QuickSwap is a permissionless decentralized exchange (DEX) running on the Polygon network.",
+         "URL": "https://quickswap.exchange/",
+         "Chain": "Polygon"
+      },
+      {
+         "Name": "PolyMarket",
+         "Description": "PolyMarket is a prediction market platform built on the Polygon network.",
+         "URL": "https://polymarket.com/",
+         "Chain": "Polygon"
+      }
+   ]
+}

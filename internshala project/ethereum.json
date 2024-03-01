@@ -1,0 +1,34 @@
+{
+  "Projects": [
+    {
+      "Name": "QuickSwap",
+      "Description": "QuickSwap is a permissionless decentralized exchange (DEX) running on the Polygon network.",
+      "URL": "https://quickswap.exchange/",
+      "Chain": "Polygon"
+    },
+    {
+      "Name": "PolyMarket",
+      "Description": "PolyMarket is a prediction market platform built on the Polygon network.",
+      "URL": "https://polymarket.com/",
+      "Chain": "Polygon"
+    },
+    {
+      "Name": "Uniswap",
+      "Description": "Uniswap is a decentralized exchange (DEX) protocol running on the Ethereum blockchain.",
+      "URL": "https://uniswap.org/",
+      "Chain": "Ethereum"
+    },
+    {
+      "Name": "SushiSwap",
+      "Description": "SushiSwap is a decentralized exchange (DEX) protocol and AMM running on the Ethereum blockchain.",
+      "URL": "https://sushi.com/",
+      "Chain": "Ethereum"
+    },
+    {
+      "Name": "Compound",
+      "Description": "Compound is a decentralized finance (DeFi) protocol running on the Ethereum blockchain.",
+      "URL": "https://compound.finance/",
+      "Chain": "Ethereum"
+    }
+  ]
+}
